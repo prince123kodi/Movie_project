@@ -1,0 +1,90 @@
+{
+  "movie": [
+    {
+      "tital": "Ant-Man and the Wasp: Quantumania",
+      "img": "ant-man-quantumania.jpg",
+      "select": "2D/",
+      "select1": "Hindi",
+      "select2": "Action/",
+      "duretion": "2h 4m",
+      "certificate": "UA",
+      "date": "17 Feb, 2023",
+      "reting": "8/10",
+      "schedule": "in cinema",
+      "about": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope`s parents and Scott`s daughter, find themselves",
+      "Hero": "Paul Rudd",
+      "heroine": "Kathryn Newton",
+      "director": "Peyton Reed",
+      "genre": [
+        "Action/"
+      ],
+      "language": [
+        "English/",
+        "Hindi"
+      ],
+      "mode": [
+        "2D/"
+      ],
+      "id": 8
+    },
+    {
+      "tital": "Dasara",
+      "img": "dasara.jpg",
+      "select": "3D/",
+      "select1": "Hindi",
+      "select2": "Romentic",
+      "duretion": "2h 36m",
+      "certificate": "UA",
+      "date": "30 Mar, 2023",
+      "reting": "8.5/10",
+      "schedule": "in cinema",
+      "about": "Dharani (Nani), Suri (Deekshith Shetty) and Vennela (Keerthy Suresh) are friends since childhood. Their lives are upended for reasons far beyond their control and they will never be the same.",
+      "Hero": "Nani",
+      "heroine": "Keerthy Suresh",
+      "director": "Srikanth Odhela",
+      "genre": [
+        "Action/",
+        "Drama/",
+        "Romentic"
+      ],
+      "language": [
+        "English/",
+        "Hindi"
+      ],
+      "mode": [
+        "2D/",
+        "3D/"
+      ],
+      "id": 9
+    },
+    {
+      "tital": "The Pope's Exorcist",
+      "img": "the-pope-s-exorcist.jpg",
+      "select": "3D/",
+      "select1": "Hindi",
+      "select2": "Drama/",
+      "duretion": "1h 45m",
+      "certificate": "A",
+      "date": "6 Apr, 2023",
+      "reting": "7.3/10",
+      "schedule": "In cinemas",
+      "about": "Inspired by the actual files of Father Gabriele Amorth, Chief Exorcist of the Vatican (Academy Award-winner Russell Crowe), The Pope`s Exorcist follows Amorth as he investigates a young boys terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "Hero": "Russell Crowe",
+      "heroine": "Laurel Marsden",
+      "director": "Julius Avery",
+      "genre": [
+        "Action/",
+        "Drama/"
+      ],
+      "language": [
+        "English/",
+        "Hindi"
+      ],
+      "mode": [
+        "2D/",
+        "3D/"
+      ],
+      "id": 10
+    }
+  ]
+}
